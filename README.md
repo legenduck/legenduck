@@ -14,7 +14,7 @@
 
 ### Current Works
 - Yonsei Univ. **[Data & Language Intelligence Lab](https://dli.yonsei.ac.kr/)** MS Student `2026.03 ~`
-- *VidRecLab: A Configurable Platform for Online Video Recommendation Experiments* — under review at **RecSys 2026**
+- Yonsei Univ. AI Academy **[YAI](https://github.com/yonsei-YAI)** — 13th Member · 15th **President** `2023.12 ~`
 
 ### Research Interests
 - Recommendation Systems
@@ -22,7 +22,7 @@
 - Personalization & Personas
 
 ### Featured Project
-- **[VidRecLab](https://github.com/legenduck/VidRecLab)** — open-source research platform for online video recommendation experiments. Configure UI, content pool, and recommendation policy independently; exposure and playback events are recorded under a standardized common schema enforced by the platform.
+- **[VidRecLab](https://github.com/legenduck/VidRecLab)** — *under review at **RecSys 2026***. Open-source research platform for online video recommendation experiments. Configure UI, content pool, and recommendation policy independently; exposure and playback events are recorded under a standardized common schema enforced by the platform.
 
 ### Contact
 - email: legenduck@yonsei.ac.kr
