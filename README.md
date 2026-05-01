@@ -1,7 +1,5 @@
-<a href="https://github.com/legenduck"><img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Flegenduck&label=&icon=github&color=%230a58ca"></a>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=240&section=header&text=Hi!🦆%20I%20am%20Deog%20Yong%20Kim&fontSize=38&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=240&section=header&text=Hi!%20I%20am%20Deog%20Yong%20Kim&fontSize=38&fontColor=ffffff" />
 </p>
 
 <p align="center">
