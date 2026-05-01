@@ -30,7 +30,7 @@
 ### Previous Works
 - Yonsei Univ. AI Academy **[YAI](https://github.com/yonsei-YAI)** 15th **President** `2025`
 - Executive Chair, **College of Sciences Student Council**, Yonsei University `Spring 2024`
-- Leader, Yonsei Univ. Pungmul Group **TTE (떼)** *(Korean folk music)* `2022`
+- Leader, Yonsei Univ. Pungmul Group **TTE** *(Korean folk music)* `2022`
 - Vice President, **Student Council**, Department of Earth System Sciences, Yonsei University `2022`
 
 ### Contact
