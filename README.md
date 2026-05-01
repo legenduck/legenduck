@@ -13,7 +13,7 @@
 </p>
 
 ### Current Works
-- Yonsei Univ. **[Data & Language Intelligence Lab](https://dli.yonsei.ac.kr/)** MS Student `2026.03 ~`
+- Yonsei Univ. **[Data & Language Intelligence Lab](https://dli.yonsei.ac.kr/)** MS Student (Advised by Prof. Dongha Lee) `2026.03 ~`
 - Yonsei Univ. AI Academy **[YAI](https://github.com/yonsei-YAI)** — 13th Member · 15th **President** `2023.12 ~`
 
 ### Research Interests
