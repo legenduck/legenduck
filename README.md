@@ -25,7 +25,7 @@
 - Personalization & Personas
 
 ### Featured Project
-- **[WatchLens](https://github.com/WatchLens/WatchLens)** — *under review at **RecSys 2026***. Open-source research platform for online video recommendation experiments. Configure UI, content pool, and recommendation policy independently; exposure and playback events are recorded under a standardized common schema enforced by the platform.
+- **[WatchLens](https://github.com/WatchLens/WatchLens)** — *accepted at **RecSys 2026***. Open-source research platform for online video recommendation experiments. Configure UI, content pool, and recommendation policy independently; exposure and playback events are recorded under a standardized common schema enforced by the platform. More details at [watchlens.github.io](https://watchlens.github.io/).
 
 ### Previous Works
 - Yonsei Univ. AI Academy **[YAI](https://github.com/yonsei-YAI)** 15th **President** `2025`
